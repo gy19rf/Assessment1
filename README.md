@@ -5,7 +5,7 @@ Student ID: 201377095
 
 Module Title: Programming for Geographical Information Analysis (Core skills)
 
-Module Code: GEOG5990
+Module Code: GEOG5990M
 
 Introduction: 
 
